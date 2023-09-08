@@ -1,0 +1,9 @@
+source_directory : 'C:\Users\Adnanzai\Documents\data'
+staging_directory : 'C:\Users\Adnanzai\Documents\data\ready'
+time_difference_min : 5
+
+flow_uuid : 'f37e5766-7b3c-4c02-92ee-e6aacd8f4cb8'
+source_endpoint: 'f1c8b178-4dba-11ee-8142-15041d20ea55'
+source_path : '/C/Users/Adnanzai/Documents/data/ready/'
+destination_endpoint: '29a00465-6aca-4312-acb9-d6003001d3b4'
+destination_path : '.'
