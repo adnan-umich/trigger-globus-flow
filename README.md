@@ -2,14 +2,14 @@
 
 # Requirements
 * Python >= 3.6
-* Pipenv
+* Pipenv (optional)
 
 # Pipenv Route Installation Instructions
 1) `git clone https://github.com/adnan-umich/trigger-globus-flow.git`
 2) `cd trigger-globus-flow`
 3) `py -m pipenv install`
 
-# Pipenv Route Installation Instructions
+# Virtualenv Route Installation Instructions
 1) `git clone https://github.com/adnan-umich/trigger-globus-flow.git`
 2) `cd trigger-globus-flow`
 3) `virtualenv venv`
